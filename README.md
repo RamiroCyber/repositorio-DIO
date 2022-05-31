@@ -1,3 +1,3 @@
 # repositorio-DIO
 
-## Estudo de html e css e um projeto simples 
+## Estudo de html e css,  realizando um projeto simples 
